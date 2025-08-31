@@ -16,7 +16,7 @@
 
 1. - [01: HTML básico y formato de contenido](/01_formato_texto/index.html)
 2. - [02: Página web con elementos básicos](/ejercicio_01/index.html)
-3. Trabajo 3
+3. - [03: Listas, multimedia y tablas](/02_listasMultimediaTablas/index.html)
 4. Trabajo 4
 5. Trabajo 5
 
