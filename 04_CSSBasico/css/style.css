@@ -1,0 +1,97 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    font-family: italic;
+    font-size: 20px;
+}
+
+#header {
+    background-color: rgb(34, 63, 140);
+    color: white;
+    font-size: 48px;
+}
+
+#cruzAzul {
+    width: 80px;
+    height: auto;
+}
+
+#menu {
+    background-color: rgb(67, 92, 157);
+    text-align: center;
+}
+
+.index {
+    color: rgb(255, 255, 255);
+}
+
+#parrafo {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+#palmares {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+#actualidad {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+#alineaciones {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+#alineacionImg {
+    width: 400px;
+    border-radius: 10px;
+    height: 350px;
+    background-position: center;
+}
+
+#contenedorAlineacion {
+    text-align: center;
+}
+
+#declaraciones {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+
+#formulario {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: rgb(229, 229, 229);
+    border-radius: 10px;
+}
+
+#footer {
+    background-color: rgb(34, 63, 140);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+#paginaOficial {
+    text-align: center;
+}
