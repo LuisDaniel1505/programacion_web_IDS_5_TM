@@ -19,6 +19,7 @@
 3. - [03: Listas, multimedia y tablas](/02_listasMultimediaTablas/index.html)
 4. - [03: Formulario y semantica](/03_formularioSemantica/index.html)
 5. - [04: CSS Basico](/04_CSSBasico/index.html)
+6. - [05: Tarjeta](/05_tarjeta/index.html)
 
 ### Ejercicios de scripting
 
