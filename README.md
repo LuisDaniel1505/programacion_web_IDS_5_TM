@@ -17,10 +17,12 @@
 1. - [01: HTML básico y formato de contenido](/01_formato_texto/index.html)
 2. - [02: Página web con elementos básicos](/ejercicio_01/index.html)
 3. - [03: Listas, multimedia y tablas](/02_listasMultimediaTablas/index.html)
-4. - [03: Formulario y semantica](/03_formularioSemantica/index.html)
-5. - [04: CSS Basico](/04_CSSBasico/index.html)
-6. - [05: Tarjeta](/05_tarjeta/index.html)
-7. - [06: Sticky header](/06_stickyHeader/index.html)
+4. - [04: Formulario y semantica](/03_formularioSemantica/index.html)
+5. - [05: CSS Basico](/04_CSSBasico/index.html)
+6. - [06: Tarjeta](/05_tarjeta/index.html)
+7. - [07: Sticky header](/06_stickyHeader/index.html)
+8. - [08: Formulario con estilos](/07_Formulario/index.html)
+
 
 ### Ejercicios de scripting
 
