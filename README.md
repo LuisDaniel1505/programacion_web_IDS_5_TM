@@ -12,7 +12,7 @@
 
 
 ## Lista de ejercicios realizados en la materia
-### Ejercicios de html
+### Ejercicios de html y CSS
 
 1. - [01: HTML básico y formato de contenido](/01_formato_texto/index.html)
 2. - [02: Página web con elementos básicos](/ejercicio_01/index.html)
@@ -22,6 +22,7 @@
 6. - [06: Tarjeta](/05_tarjeta/index.html)
 7. - [07: Sticky header](/06_stickyHeader/index.html)
 8. - [08: Formulario con estilos](/07_Formulario/index.html)
+9. - [09: Página web con flexbox](/08_Flexbox/index.html)
 
 
 ### Ejercicios de scripting
