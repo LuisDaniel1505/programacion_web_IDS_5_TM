@@ -23,6 +23,7 @@
 7. - [07: Sticky header](/06_stickyHeader/index.html)
 8. - [08: Formulario con estilos](/07_Formulario/index.html)
 9. - [09: Página web con flexbox](/08_Flexbox/index.html)
+10. - [10: Página web con variables de CSS](/09_Variables/index.html)
 
 
 ### Ejercicios de scripting
