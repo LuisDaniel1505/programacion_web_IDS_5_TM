@@ -24,6 +24,7 @@
 8. - [08: Formulario con estilos](/07_Formulario/index.html)
 9. - [09: Página web con flexbox](/08_Flexbox/index.html)
 10. - [10: Página web con variables de CSS](/09_Variables/index.html)
+11. - [11: Diseño responsivo](/10_Sitio_responsivo/index.html)
 
 
 ### Ejercicios de scripting
