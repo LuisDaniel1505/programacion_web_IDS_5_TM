@@ -25,6 +25,7 @@
 9. - [09: Página web con flexbox](/08_Flexbox/index.html)
 10. - [10: Página web con variables de CSS](/09_Variables/index.html)
 11. - [11: Diseño responsivo](/10_Sitio_responsivo/index.html)
+12. - [12: Examen con Tailwind y DaisyUI](/11_descargas/public/index.html)
 
 
 ### Ejercicios de scripting
