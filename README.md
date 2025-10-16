@@ -30,7 +30,7 @@
 
 ### Ejercicios de scripting
 
-1. Trabajo 1
+1. [01: Calculadora con javascript](/12_Javascript/index.html);
 2. Trabajo 2
 3. Trabajo 3
 4. Trabajo 4
