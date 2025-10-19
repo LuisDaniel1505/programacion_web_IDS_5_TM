@@ -30,8 +30,8 @@
 
 ### Ejercicios de scripting
 
-1. [01: Calculadora con javascript](/12_Javascript/index.html);
-2. Trabajo 2
+1. [01: Calculadora con javascript](/12_Javascript/index.html)
+2. [02: Cambiar color de fondo](/13_Btn_fondo/index.html)
 3. Trabajo 3
 4. Trabajo 4
 5. Trabajo 5
