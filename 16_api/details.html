@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalles de la Raza</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Detalles del gato</h1>
+
+    <div id="breedDetailsContainer">
+    </div>
+
+    <script type="module">
+
+        import { getImageDetails } from './js/api.js';
+        const imageId = new URLSearchParams(window.location.search).get('id');
+        const container = document.getElementById('breedDetailsContainer');
+
+        if (imageId) {
+            (async () => {
+                try {
+                    const imageData = await getImageDetails(imageId);
+                    const breed = imageData.breeds[0];
+                    if (breed) {
+                        container.innerHTML = `
+                            <div class="cat-details-card">
+                                <div class="card-img-container"><img src="${imageData.url}" alt="${breed.name}" class="card-img"></div> 
+                                <h2 class="card-title">${breed.name}</h2>
+                                <p class="card-text">Temperamento: ${breed.temperament}</p>
+                                <p class="card-text">Origen: ${breed.origin}</p>
+                                <p class="card-text">Esperanza de vida: ${breed.life_span} años</p>
+                                <p class="card-text">Descripción:</p>
+                                <p class="card-text">${breed.description}</p>
+                            </div>
+                        `;
+                    } else {
+                        container.innerHTML = '<p>No se encontraron detalles</p>';
+                    }
+                } catch (error) {
+                    console.error('Error al cargar los detalles:', error);
+                    container.innerHTML = '<p>Error</p>';
+                }
+            })();
+        } else {
+            container.innerHTML = '<p>Error, no hay id :c</p>';
+        }
+    </script>
+</body>
+
+</html>
